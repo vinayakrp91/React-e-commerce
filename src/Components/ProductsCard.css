@@ -1,0 +1,30 @@
+.card-container {
+    width: 250px;
+    height: 250px;
+    border: 1px solid gray;
+    margin: 15px;
+    padding: 15px;
+}
+
+.prod-image img {
+    width:150px;
+    text-align: center;
+}
+
+
+
+.prod-metadata{
+    margin-bottom:10px;
+}
+
+.item-name{
+    font-size: 22px;
+    font-weight: 600;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.item-price{
+    font-size:16px;
+    font-weight: 600;
+}
